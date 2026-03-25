@@ -1,0 +1,10 @@
+streamlit
+pandas
+networkx
+pydantic
+python-dotenv
+requests
+ollama
+sentence-transformers
+faiss-cpu
+pypdf

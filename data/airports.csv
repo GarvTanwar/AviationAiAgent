@@ -1,0 +1,21 @@
+airport_code,city,country,region,congestion_score,weather_risk_score
+DEL,Delhi,India,Asia,7,6
+BOM,Mumbai,India,Asia,8,7
+BLR,Bangalore,India,Asia,6,5
+DXB,Dubai,UAE,Middle East,9,4
+SIN,Singapore,Singapore,Asia,8,5
+KUL,Kuala Lumpur,Malaysia,Asia,7,6
+BKK,Bangkok,Thailand,Asia,7,6
+HKG,Hong Kong,Hong Kong,Asia,9,6
+SYD,Sydney,Australia,Oceania,8,5
+MEL,Melbourne,Australia,Oceania,7,5
+LAX,Los Angeles,USA,North America,9,6
+JFK,New York,USA,North America,10,7
+LHR,London,UK,Europe,10,8
+FRA,Frankfurt,Germany,Europe,9,6
+CDG,Paris,France,Europe,9,7
+AMS,Amsterdam,Netherlands,Europe,8,6
+DOH,Doha,Qatar,Middle East,8,4
+IST,Istanbul,Turkey,Europe,8,6
+ICN,Seoul,South Korea,Asia,7,5
+NRT,Tokyo,Japan,Asia,8,5

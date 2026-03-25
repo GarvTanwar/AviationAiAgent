@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+.env
+rag_store/
+*.pyc
+.idea/
+.vscode/
+.DS_Store
+knowledge_base/
